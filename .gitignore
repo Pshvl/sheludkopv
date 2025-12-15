@@ -1,3 +1,9 @@
 .venv/
-results/
 __pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+.flake8
+.env
+*.log
